@@ -12,12 +12,12 @@ class Migration(migrations.Migration):
 
     operations = [
         migrations.CreateModel(
-            name='stores',
+            name='Stores',
             fields=[
                 ('StoresId', models.AutoField(primary_key=True, serialize=False)),
                 ('StoresName', models.CharField(max_length=500)),
-                ('Latitude', models.IntegerField()),
-                ('Longitude', models.IntegerField()),
+                ('Latitude', models.FloatField()),
+                ('Longitude', models.FloatField()),
             ],
         ),
     ]
