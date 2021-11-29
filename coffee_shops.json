@@ -1,0 +1,3138 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Leipziger Pl. 12-13, 10117 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5106575,
+                "lng": 13.3806684
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.51198922989272,
+                    "lng": 13.38202132989272
+                },
+                "southwest": {
+                    "lat": 52.50928957010727,
+                    "lng": 13.37932167010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "EDEKA Leipziger Platz",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104932326234186751582\">Pieter Houba</a>"
+                ],
+                "photo_reference": "Aap_uECHvHuUSth6ZVXQVMV-vKLwYZRqN-Q0nepoZRgmah25rrHtRddlRNouKa0KEFTqzD6PGEeE7zrsSYBHQd9w1Y7opdFiOfi2UScad5KpvInPbEQM29UZWmNOXSLS0kgQNoKXdCOqt2lEEDUk5f4O9kO_AQRIyauJlJKBmUdd-WEO230_",
+                "width": 3840
+            }
+        ],
+        "place_id": "ChIJdS95X9BRqEcRM5Ug1rE3Xp0",
+        "plus_code": {
+            "compound_code": "G96J+77 Berlin, Germany",
+            "global_code": "9F4MG96J+77"
+        },
+        "rating": 4.2,
+        "reference": "ChIJdS95X9BRqEcRM5Ug1rE3Xp0",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 393
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Oranienstra\u00dfe 71, 10969 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5050369,
+                "lng": 13.4075059
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50638672989272,
+                    "lng": 13.40885572989272
+                },
+                "southwest": {
+                    "lat": 52.50368707010728,
+                    "lng": 13.40615607010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "International Supermarket",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2736,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103058249451471140703\">nazif yasayacak</a>"
+                ],
+                "photo_reference": "Aap_uEBXddu0o5W0qW4eNkylM4SauvEC9j80GqL5tKbGOUO9PJt-VKY6P0GvdBn0Tlnj1_NOUuMvSoNl9vvljJ17q3BthSiQCIcFMRh5XDbdYNwj31ESxMaLUBIK4Fkxk4uNOcICFt45shKQB9QRnJCsv7dKQJcnEvsJZ8dHbmxi98tfANou",
+                "width": 3648
+            }
+        ],
+        "place_id": "ChIJjYS4qC5OqEcRRj2yuggYRi8",
+        "plus_code": {
+            "compound_code": "GC45+22 Berlin, Germany",
+            "global_code": "9F4MGC45+22"
+        },
+        "rating": 4,
+        "reference": "ChIJjYS4qC5OqEcRRj2yuggYRi8",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 275
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rosenthaler Str. 69, 10119 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.52875659999999,
+                "lng": 13.4022212
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.53010642989272,
+                    "lng": 13.40357102989272
+                },
+                "southwest": {
+                    "lat": 52.52740677010727,
+                    "lng": 13.40087137010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "24-SEVEN Market Sp\u00e4tkauf",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1440,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106764168669711007801\">Torsten Noack</a>"
+                ],
+                "photo_reference": "Aap_uEDp-kYj1ia7vkJQ0OzMNrN7vSvGvVI6WXKiibGk67Scxk8X7ltS3qq2vp2A4wbmD2OmVnHTaOZmTZgSjQ0uWnIWroVfeIEZQd_egNf5K3dJYfIySdXYW3PKOcsq1dQeU6UH_7Ype_RlsOx8oCq0gsr09IJunchDteC-0LwV3jns5cCV",
+                "width": 2560
+            }
+        ],
+        "place_id": "ChIJXWzIc-RRqEcRMpVSygwV4Gw",
+        "plus_code": {
+            "compound_code": "GCH2+GV Berlin, Germany",
+            "global_code": "9F4MGCH2+GV"
+        },
+        "rating": 4.4,
+        "reference": "ChIJXWzIc-RRqEcRMpVSygwV4Gw",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 50
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Neue Promenade 10, 10178 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5225904,
+                "lng": 13.4009985
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52373237989272,
+                    "lng": 13.40213352989272
+                },
+                "southwest": {
+                    "lat": 52.52103272010728,
+                    "lng": 13.39943387010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Berlin Foods .Corp",
+        "opening_hours": {
+            "open_now": false
+        },
+        "place_id": "ChIJR9sajWJRqEcRusKfpkTacSU",
+        "plus_code": {
+            "compound_code": "GCF2+29 Berlin, Germany",
+            "global_code": "9F4MGCF2+29"
+        },
+        "rating": 5,
+        "reference": "ChIJR9sajWJRqEcRusKfpkTacSU",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 2
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Krausenstra\u00dfe 11, 10117 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5094356,
+                "lng": 13.3914878
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.51085117989273,
+                    "lng": 13.39300567989272
+                },
+                "southwest": {
+                    "lat": 52.50815152010728,
+                    "lng": 13.39030602010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "City Supermarkt",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115574866337181791929\">Gregor Baumann</a>"
+                ],
+                "photo_reference": "Aap_uEBv0nEgBZKo4syw2Trz9Su1XnDuwQdDNdlhVI1wpjnNaGrZGAEmpaYjFkDmdJ4oj1NY_XaHmd09tGkKA6IWL6qRQxDy8Sa44jCA2hxliusi_zERYzKE-dJ4MhamO0BShen5lBzBVUDiWXTA-CxdmAKVSj6VhWoe4uF-eGo5yomT_Ncf",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJO9sE39BRqEcR3qmk7xtw3bs",
+        "plus_code": {
+            "compound_code": "G95R+QH Berlin, Germany",
+            "global_code": "9F4MG95R+QH"
+        },
+        "rating": 3.3,
+        "reference": "ChIJO9sE39BRqEcR3qmk7xtw3bs",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 70
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Invalidenstra\u00dfe 23-26, 10115 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5323911,
+                "lng": 13.3971415
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.53378412989272,
+                    "lng": 13.39848652989272
+                },
+                "southwest": {
+                    "lat": 52.53108447010728,
+                    "lng": 13.39578687010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "REWE",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104705175153036107469\">\ucc0c\uc9c8_sunny</a>"
+                ],
+                "photo_reference": "Aap_uEBNc3j898OlAgpopEjUy9EH4gZbsdkAcNA2CNyKUd0-mHusNvHsZBG1t1s0Lx9JuD1omCdJVXgOjS6OqHo4x1WeKvx9s4GCOf6HqDFTCKFUj7YHRzSjtwJF0qPgyaKNLz7-Mb3JwZxT0Vq7xrnoN6rqbp5uLQf0lsOJtqz9y89uhj4I",
+                "width": 3840
+            }
+        ],
+        "place_id": "ChIJrUHMWeVRqEcRtKIJGLSVFrE",
+        "plus_code": {
+            "compound_code": "G9JW+XV Berlin, Germany",
+            "global_code": "9F4MG9JW+XV"
+        },
+        "rating": 4.4,
+        "reference": "ChIJrUHMWeVRqEcRtKIJGLSVFrE",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1704
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "123 Stresemannstra\u00dfe, Berlin 10963, 10963, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5073831,
+                "lng": 13.3781439
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50873292989272,
+                    "lng": 13.37949372989272
+                },
+                "southwest": {
+                    "lat": 52.50603327010727,
+                    "lng": 13.37679407010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Chino",
+        "place_id": "ChIJ_eyJEMxRqEcRSKognlYVzKM",
+        "plus_code": {
+            "compound_code": "G94H+X7 Berlin, Germany",
+            "global_code": "9F4MG94H+X7"
+        },
+        "rating": 0,
+        "reference": "ChIJ_eyJEMxRqEcRSKognlYVzKM",
+        "types": [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Flottwellstra\u00dfe 27, 10785 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5016805,
+                "lng": 13.3711204
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50301677989273,
+                    "lng": 13.37255792989272
+                },
+                "southwest": {
+                    "lat": 52.50031712010728,
+                    "lng": 13.36985827010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Minimarkt",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102849185469224957051\">Chris Blum</a>"
+                ],
+                "photo_reference": "Aap_uECJqkexYEqUZkwVsHF2E8kVcRrf3XbidE4KuF7--CDtqriw4tsAtd4KgZ6nBzCvr-fgV3y00w0OVBbB6uTseO95--yKiRmDaKjozYXVLxVATr6G0ARpiAhuPLY_HKbPEkVDmhQb19OiILy_HErtVjq68MsyARjuY7VbM505P-LxjoX9",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ28ZIwjRQqEcRacWNHvwo6hg",
+        "plus_code": {
+            "compound_code": "G92C+MC Berlin, Germany",
+            "global_code": "9F4MG92C+MC"
+        },
+        "rating": 3.9,
+        "reference": "ChIJ28ZIwjRQqEcRacWNHvwo6hg",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 63
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Europaplatz 1, 10557 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5246935,
+                "lng": 13.3692935
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52654077989273,
+                    "lng": 13.37140295
+                },
+                "southwest": {
+                    "lat": 52.52384112010728,
+                    "lng": 13.36859035
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "REWE City",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111749577507652264834\">B. Darius B.</a>"
+                ],
+                "photo_reference": "Aap_uECiSNfWDuAMPK9nSd6_zXmUBrtN9pUNinBPWUDN03SnUPqf108eKIRUiiMiGuTj3sDszrAOrFB8me2E6bk2NL_sNE48PIIC37cJNwhds_viV-eoj6zLr31AQQp83gJ-lGDcsf4nKlHMpLvboUhmtyiYMgXEPX-qufl_Zkfxw8SZE4qy",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJD6ha2L1RqEcRXV4VGn1EKKE",
+        "plus_code": {
+            "compound_code": "G9F9+VP Berlin, Germany",
+            "global_code": "9F4MG9F9+VP"
+        },
+        "rating": 3.8,
+        "reference": "ChIJD6ha2L1RqEcRXV4VGn1EKKE",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1107
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Potsdamer Str. 111, 10783 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.4993858,
+                "lng": 13.3629756
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50073587989272,
+                    "lng": 13.36417237989272
+                },
+                "southwest": {
+                    "lat": 52.49803622010727,
+                    "lng": 13.36147272010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Nazar Supermarkt",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109877581221572067642\">ahmad. alrga11</a>"
+                ],
+                "photo_reference": "Aap_uEC_dSVlB12quJrCgLSIqPhlcqYtFf7QdvKVRf_rctR5GpIfmmlBXtzh_Wl1Ea0SMYTpRrvClOy9bgpFBugPzbG7-Sfnv5J_5pRNqo4NrUHDfFMUrhj0BjPnxGbKixYG2udD63s_jNDI9-8UeuYC2oGpzTK0Rga7KSI9cC9srfDJQGgF",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ78TQI0pQqEcR4xtGn7IAH6Y",
+        "plus_code": {
+            "compound_code": "F9X7+Q5 Berlin, Germany",
+            "global_code": "9F4MF9X7+Q5"
+        },
+        "rating": 4,
+        "reference": "ChIJ78TQI0pQqEcR4xtGn7IAH6Y",
+        "types": [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 200
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Alte Potsdamer Str. 7, 10785 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5063589,
+                "lng": 13.3739253
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50778247989273,
+                    "lng": 13.37526467989272
+                },
+                "southwest": {
+                    "lat": 52.50508282010728,
+                    "lng": 13.37256502010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "REWE",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100481314062572692166\">Amanda Christiansen</a>"
+                ],
+                "photo_reference": "Aap_uEC3v42PdciWCNqCFs9fzk79DGscmm37Xp061prHjFlTqxGb_SJ7R3467k80o58JmtrmNNX6BNiwPtpGpa1i1oKiE0Uscxf5mYnP5jsov_61WV6QXp_WPTtGEp-atuX0QdocMg7QL3b5AeuNoaxQazLVr5eEauOxYZyzHl6qwxonwTJF",
+                "width": 3120
+            }
+        ],
+        "place_id": "ChIJURa0ustRqEcRkb9gR7lWvuA",
+        "plus_code": {
+            "compound_code": "G94F+GH Berlin, Germany",
+            "global_code": "9F4MG94F+GH"
+        },
+        "rating": 4.1,
+        "reference": "ChIJURa0ustRqEcRkb9gR7lWvuA",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 754
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Friedrichstra\u00dfe 142, 10117 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5200014,
+                "lng": 13.3880047
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52126187989273,
+                    "lng": 13.38922437989272
+                },
+                "southwest": {
+                    "lat": 52.51856222010728,
+                    "lng": 13.38652472010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "EDEKA City Markt",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101808654998046341741\">Luke Biernbaum</a>"
+                ],
+                "photo_reference": "Aap_uEAr_H2Rj3ao4LQMUy2QKSiANgnzxKvJ-e3SmYO07doocbUThf1L3QoVmXcQmgUxFqOIeT9iHcbD2KeCAdwQa1rfJycIreil9Bh5tdaVyc8ly_RZDASgIBLaX7TjBc_XMvNIF4GKaHaHvTG0qDV41dNkoBWE1vmPQxtfYU0X7YPwfTcy",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ8xxleelRqEcRtn5gqyNhHvA",
+        "plus_code": {
+            "compound_code": "G9CQ+26 Berlin, Germany",
+            "global_code": "9F4MG9CQ+26"
+        },
+        "rating": 4,
+        "reference": "ChIJ8xxleelRqEcRtn5gqyNhHvA",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 2193
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Litfa\u00df-Platz 4, 10178 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5221378,
+                "lng": 13.4034721
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52323837989272,
+                    "lng": 13.40490642989272
+                },
+                "southwest": {
+                    "lat": 52.52053872010728,
+                    "lng": 13.40220677010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "REWE",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116216202357062578677\">Kevin Bettin</a>"
+                ],
+                "photo_reference": "Aap_uEAii9VM0ccrKS4Bdw5IlxaG8Tbc6PqThOW6hfouxRYLvUwBKqyeUWqdkm2dYC1BNgm4FkGaYo7roDuRQfmFbSs58UMblI-921MHxI8LuKVPJiEPAniCcXrwu1BNfU30meT9TrjCiYfVvhFenbw4oWb3eRs1lITGOnpFDlfd10iMbFgf",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJmQtpiOBRqEcRqBjTGY_LvHI",
+        "plus_code": {
+            "compound_code": "GCC3+V9 Berlin, Germany",
+            "global_code": "9F4MGCC3+V9"
+        },
+        "rating": 3.9,
+        "reference": "ChIJmQtpiOBRqEcRqBjTGY_LvHI",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1114
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Torstra\u00dfe 206, 10115 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5277981,
+                "lng": 13.39151
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52929992989272,
+                    "lng": 13.39302032989272
+                },
+                "southwest": {
+                    "lat": 52.52660027010727,
+                    "lng": 13.39032067010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Kiezmarkt",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100952345900848087618\">Michel Christian</a>"
+                ],
+                "photo_reference": "Aap_uECnkoqJSDxfMvLRtyBZ6iMHE0nrGmPgZHLMZn26XdjvtaQPrbiRoFYL0vzwoquxZEluRtf5A6aJm8IzX16fuf-wxpJTNE5Q81-EedGEJXUuQeJNe3Jfqh9RSb4ADrNyKnbMFMwwc0iQuN1xt7egUzwVJ6tt9zD-NYAJHuJx_OGqesXw",
+                "width": 2340
+            }
+        ],
+        "place_id": "ChIJK_P-0OhRqEcRo7XMT3XoXoU",
+        "plus_code": {
+            "compound_code": "G9HR+4J Berlin, Germany",
+            "global_code": "9F4MG9HR+4J"
+        },
+        "rating": 4,
+        "reference": "ChIJK_P-0OhRqEcRo7XMT3XoXoU",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 216
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Mohrenstra\u00dfe 69, 10117 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.51183899999999,
+                "lng": 13.38385
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.51309382989272,
+                    "lng": 13.38525227989272
+                },
+                "southwest": {
+                    "lat": 52.51039417010728,
+                    "lng": 13.38255262010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Hit Ullrich",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3096,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102653345918209399790\">j kurki</a>"
+                ],
+                "photo_reference": "Aap_uEBNc6jTlsOvMaM66AiqWxjdg3gAXDx_ukWcpAlEM88Os6Ml3aI5I2MNJbi7z-DE1-S5u2PbFG7ffpMrur1nSEcPsjJ543klzA4u8GxjBtWMA4mns-fv65CZWWeZ-2Fz49bZYHqomPhR5gH1SVx6jh9Bef9Rala4J8dDRppkQDzvDr9n",
+                "width": 5504
+            }
+        ],
+        "place_id": "ChIJX0Mmkc9RqEcR0bH4Q4qkC-k",
+        "plus_code": {
+            "compound_code": "G96M+PG Berlin, Germany",
+            "global_code": "9F4MG96M+PG"
+        },
+        "rating": 4.3,
+        "reference": "ChIJX0Mmkc9RqEcR0bH4Q4qkC-k",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1302
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Alexanderplatz, U-Bahnhof 1, 10178 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.52107950000001,
+                "lng": 13.4119077
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52227552989272,
+                    "lng": 13.4139549
+                },
+                "southwest": {
+                    "lat": 52.51957587010727,
+                    "lng": 13.4112253
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Spar Express",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4608,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104763774165454128791\">Ji\u0159\u00ed Syrov\u00fd</a>"
+                ],
+                "photo_reference": "Aap_uEBVvShwf57Q97wuWVzvPfVI5XEE9_DgFQKsPFhSVlN3TagHBUJQ8JezCiYOr_bdsB_Wpmwm-86AigVQO7c1SSRsDDIqrwWFG9gNFt2tHhB14RiDTa6pY7Kb3RIsHJjWLMbh1xeN9mw3D-7v87EINhQXfHLvCgpRYA56QjzN452Sk0k5",
+                "width": 2592
+            }
+        ],
+        "place_id": "ChIJ2Xt5bx9OqEcRLIVJJkhvgyU",
+        "plus_code": {
+            "compound_code": "GCC6+CQ Berlin, Germany",
+            "global_code": "9F4MGCC6+CQ"
+        },
+        "rating": 2.7,
+        "reference": "ChIJ2Xt5bx9OqEcRLIVJJkhvgyU",
+        "types": [
+            "supermarket",
+            "bakery",
+            "grocery_or_supermarket",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 22
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Friedrichstra\u00dfe 100, 10117 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5204606,
+                "lng": 13.3885857
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52186642989273,
+                    "lng": 13.38974802989272
+                },
+                "southwest": {
+                    "lat": 52.51916677010728,
+                    "lng": 13.38704837010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "REWE",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2903,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108564775745102090173\">Xiaoqiu QIU</a>"
+                ],
+                "photo_reference": "Aap_uED3aX85-vCrZysE6R-bukmGsQIxBquTjmy9Jw87GHsHcRn7ujPb0vpJyPHg7EDybuJYrHCIjfxGpX066zXSS4BszJuWnP2x1-SX66JDXkQYmTzVTxD9HUxQ6mIkyjxv3LeY_vap8V9Ud7Rcrp2unXGd4oMAxrZe0cntXQQvXnPfyXw",
+                "width": 3871
+            }
+        ],
+        "place_id": "ChIJeZ0RHcNRqEcRZfunLIjlWuY",
+        "plus_code": {
+            "compound_code": "G9CQ+5C Berlin, Germany",
+            "global_code": "9F4MG9CQ+5C"
+        },
+        "rating": 4,
+        "reference": "ChIJeZ0RHcNRqEcRZfunLIjlWuY",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1169
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Fischerinsel 12, 10179 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5135433,
+                "lng": 13.4057764
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.51493327989272,
+                    "lng": 13.40741752989272
+                },
+                "southwest": {
+                    "lat": 52.51223362010727,
+                    "lng": 13.40471787010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "EDEKA Ungefroren",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4048,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103955259511592132809\">Daniel Alonso</a>"
+                ],
+                "photo_reference": "Aap_uEA1587qQoRVAq54eLlfzBEOlSHpHobNG1wHlgFNG1B5KqdNgTDjrTMCJXuzbQUNOb3gtkSzDLRXtBfVhLflB-4_lNfWHxQvZb-w3dHxqWxIuT1BlQcpUDXEiXGuZCWBjnQdZzFBGKPU7STSxG-F3uWlVxpWPUFBII0uIYj2KKWFl4tl",
+                "width": 3036
+            }
+        ],
+        "place_id": "ChIJXTS2oCdOqEcRpEMJaWQTXB8",
+        "plus_code": {
+            "compound_code": "GC74+C8 Berlin, Germany",
+            "global_code": "9F4MGC74+C8"
+        },
+        "rating": 4,
+        "reference": "ChIJXTS2oCdOqEcRpEMJaWQTXB8",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 513
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Friedrichstra\u00dfe 67-70, 10117 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5129415,
+                "lng": 13.3906186
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.51429132989272,
+                    "lng": 13.39196842989272
+                },
+                "southwest": {
+                    "lat": 52.51159167010728,
+                    "lng": 13.38926877010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "REWE City",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100464396815044607250\">Lisa Huang</a>"
+                ],
+                "photo_reference": "Aap_uECPZ805HhwB2d22aM1rm3wrjh-2pAsDicgGjPv0WBBOs5ZxL3Zof7ZCxeHxE1vVnDbDOJOkud0Cg7tmjLjz6NUzeBqXCz1vfvAeUF4sd-sDECPHPUxzkjxrOj-MbkaGT0lj6s_oDSrqmuxQcI0YVMgMItQFJ0qwV2RqzMY3oXxgb-Xn",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ-8sDhdpRqEcRp062PKUWqo0",
+        "plus_code": {
+            "compound_code": "G97R+56 Berlin, Germany",
+            "global_code": "9F4MG97R+56"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ-8sDhdpRqEcRp062PKUWqo0",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 714
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Mall of Berlin, Leipziger Pl. 12, 10117 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5100401,
+                "lng": 13.381049
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.51146442989273,
+                    "lng": 13.38232807989272
+                },
+                "southwest": {
+                    "lat": 52.50876477010728,
+                    "lng": 13.37962842010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "ALDI",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2880,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114477411075876065022\">Boris M</a>"
+                ],
+                "photo_reference": "Aap_uEAevItbMTE9Z85OMhWHWJ90phNH9LMARQrgecj9cB6rbQRD2vYw5D8vKHv5GASbfEOWy76EF3V18QNgxIKmhU9mb7RHXsL8TVE6dKbnEU_E_cHOq93Ot0j0yMJuYJuchfuOw8O29_Hs7FHMjd8lJNF3JJYphT-hk9sSVjjc3ILuA904",
+                "width": 2160
+            }
+        ],
+        "place_id": "ChIJrzhg285RqEcRCrcEtu4XG5I",
+        "plus_code": {
+            "compound_code": "G96J+2C Berlin, Germany",
+            "global_code": "9F4MG96J+2C"
+        },
+        "rating": 4.1,
+        "reference": "ChIJrzhg285RqEcRCrcEtu4XG5I",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 893
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Invalidenstra\u00dfe 53, 10557 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5250115,
+                "lng": 13.3698769
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52669907989272,
+                    "lng": 13.37164697989272
+                },
+                "southwest": {
+                    "lat": 52.52399942010727,
+                    "lng": 13.36894732010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "SPAR Express",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106048252159271746773\">Philipp Kl\u00f6ckner</a>"
+                ],
+                "photo_reference": "Aap_uECFI8J_oF5SMFi5FwgNAvLa6Kjek7VeGGRuGCAa__sorynK3Z7vHULDz3OHjCGrZFS_TNnKekqfnb42lw_hIRBdv3wNYTn4WbmKVO3YCjjHx9SBd364QhVoLS3jvZqNoIoS1wAGfomIbCUpNz9XxBz5efYXIe1f8QUt6XBThbQf8nrN",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJz-jqb5ZRqEcR2abASo1fD38",
+        "plus_code": {
+            "compound_code": "G9G9+2X Berlin, Germany",
+            "global_code": "9F4MG9G9+2X"
+        },
+        "rating": 3.1,
+        "reference": "ChIJz-jqb5ZRqEcR2abASo1fD38",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 16
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Stresemannstra\u00dfe 68-78, 10963 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.50348,
+                "lng": 13.383694
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50481782989272,
+                    "lng": 13.38501587989272
+                },
+                "southwest": {
+                    "lat": 52.50211817010728,
+                    "lng": 13.38231622010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Lidl",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102619835185882495894\">\u0434\u043c\u0438\u0442\u0440\u0438\u0439 \u0447\u0438\u0441\u0442\u044f\u043a\u043e\u0432</a>"
+                ],
+                "photo_reference": "Aap_uEAfH6x7DWsRTFtiEKLZQkOhiX-mF06OCIxspzL4Yumj2y7Iken9LD9jTMJ0Nk_a1MNzLQ5cUWoWMGxlofyPBshJGkw1lbw7yFXFcl9rkD0zjFeTiNEX8O09b9lt40n4AcLrrNOUXkzGdHJPF_o3KUyN55l4OOWBKlm2fKY7B34YvQjW",
+                "width": 4000
+            }
+        ],
+        "place_id": "ChIJTegsmNJRqEcR7aVPZjOoUWk",
+        "plus_code": {
+            "compound_code": "G93M+9F Berlin, Germany",
+            "global_code": "9F4MG93M+9F"
+        },
+        "rating": 3.9,
+        "reference": "ChIJTegsmNJRqEcR7aVPZjOoUWk",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1209
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Friedrichstra\u00dfe 60, 10117 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5104998,
+                "lng": 13.3904447
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.51189282989272,
+                    "lng": 13.39154952989272
+                },
+                "southwest": {
+                    "lat": 52.50919317010727,
+                    "lng": 13.38884987010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Rewe",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 7296,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117529651563342535423\">A Google User</a>"
+                ],
+                "photo_reference": "Aap_uED7t44H62qqNsMTUcV3BltT14yaY8itEUz3XgMNYVRXlLYyzB8sl2gJNnzy5MLKT3hUBwe2IBouQd7_JP-GQqPJdsGgtJi9Hc2M3z872LH3dZNX1Ygw-gDLf7zh05U0BDQkA638WfYwxqeDeTty06gcLfDIp8dWCEE44l8lLm3HUIs",
+                "width": 5472
+            }
+        ],
+        "place_id": "ChIJ6_iV89BRqEcRCr5Ntbe5cLA",
+        "plus_code": {
+            "compound_code": "G96R+55 Berlin, Germany",
+            "global_code": "9F4MG96R+55"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ6_iV89BRqEcRCr5Ntbe5cLA",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1053
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Torstra\u00dfe 129, 10119 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.529751,
+                "lng": 13.4003257
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.53103692989272,
+                    "lng": 13.40165452989272
+                },
+                "southwest": {
+                    "lat": 52.52833727010728,
+                    "lng": 13.39895487010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "M.K. Sp\u00e4tshop",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117165128419519075633\">Norman Schlorke</a>"
+                ],
+                "photo_reference": "Aap_uEDUpD3EDl1arolTKsj9CaGLBM61Vi6bVcccYBbKGQa2izG1B4mJBRzsPFe93fIkzeu4XWPV7ICqo4rdNhUgquV5iUXO_mnQYxReh-lPyMnHVHqad5kW0P6KhtQqnovRR1iczBbrRgtTzDWvqrSISYtu66DgaJ7KJdH8CsVgfSXxFWTW",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ3_Y5V-RRqEcRfijL8SBMLjk",
+        "plus_code": {
+            "compound_code": "GCH2+W4 Berlin, Germany",
+            "global_code": "9F4MGCH2+W4"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ3_Y5V-RRqEcRfijL8SBMLjk",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 89
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Kurf\u00fcrstenstra\u00dfe 33, 10785 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5001968,
+                "lng": 13.3615882
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50150022989273,
+                    "lng": 13.36288127989272
+                },
+                "southwest": {
+                    "lat": 52.49880057010728,
+                    "lng": 13.36018162010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "ASIA MIGHT - Market",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2340,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107721029649158439650\">Sreekanta Debnath</a>"
+                ],
+                "photo_reference": "Aap_uEC0qGdFHVtOr7qPvyBBwN6VQlWfKO-sXY9xisn_4K8ZpEVPh98fzE6xBBtTfl1NoepnnNsGIw8qjXJ3eG41uL9IRkBnyg9aRd-6iGEkYgWHBSgGDbNs-cvyuWsqyTz1rrDQONyRzDNCmu7bF_OCNSOV_7ZxZc3jUVNBypfcSKm6DvU4",
+                "width": 4160
+            }
+        ],
+        "place_id": "ChIJJbljy0tQqEcRNffyxmOLuak",
+        "plus_code": {
+            "compound_code": "G926+3J Berlin, Germany",
+            "global_code": "9F4MG926+3J"
+        },
+        "rating": 4.2,
+        "reference": "ChIJJbljy0tQqEcRNffyxmOLuak",
+        "types": [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 266
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Friedrichstra\u00dfe 100, 10117 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5204582,
+                "lng": 13.3885874
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52183347989272,
+                    "lng": 13.38978872989272
+                },
+                "southwest": {
+                    "lat": 52.51913382010728,
+                    "lng": 13.38708907010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "SPAR Express",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102628920243412022033\">\u0420\u043e\u043c\u0430\u043d \u041b\u044f\u0445\u043e\u0432\u0441\u043a\u0438\u0439</a>"
+                ],
+                "photo_reference": "Aap_uEBWbwX2QTVHY8jssZBaFuxW2fpsXaGS17Q1OhQrqvxCg7D8UmfE2FFs06k2CnkySilSW6pypvctFgwHCBn5eHE0CYetJ003Q2XYDG59sdPswv-1UQQ1IioBcqdCLK1rsIIbKQSu0lC8XwBcyzXiytvtdUWlh36KHre7qiRMoA2_8jqZ",
+                "width": 3120
+            }
+        ],
+        "place_id": "ChIJT1gdHsNRqEcR28iz9KBa-Kg",
+        "plus_code": {
+            "compound_code": "G9CQ+5C Berlin, Germany",
+            "global_code": "9F4MG9CQ+5C"
+        },
+        "rating": 3.2,
+        "reference": "ChIJT1gdHsNRqEcR28iz9KBa-Kg",
+        "types": [
+            "supermarket",
+            "bakery",
+            "grocery_or_supermarket",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 16
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Leipziger Str. 42, 10117 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.51061199999999,
+                "lng": 13.395065
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.51201577989272,
+                    "lng": 13.39651222989272
+                },
+                "southwest": {
+                    "lat": 52.50931612010728,
+                    "lng": 13.39381257010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Lidl",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2592,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101432646435200111464\">\uc774\uc815\uc12d</a>"
+                ],
+                "photo_reference": "Aap_uEBS4lmm7Ownpn89uXXDGaD4eFBiG1fTAxFeKMs0K3xyaoUnkjDEFIiRrsjp-oBA-rAw6tGm0cyR4Q_CXCIMf5pYvh8amIQAbUiOJdkgalmwfnktOaV_fQSJnfD8HovFUjLSM9pKgkodp4z1d1PI_y0cmTvYDEUR6AUJo_PCGPehYqJ8",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJS5p1GdRRqEcRzoMvYJZBdkM",
+        "plus_code": {
+            "compound_code": "G96W+62 Berlin, Germany",
+            "global_code": "9F4MG96W+62"
+        },
+        "rating": 4.2,
+        "reference": "ChIJS5p1GdRRqEcRzoMvYJZBdkM",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1621
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Chausseestra\u00dfe 118-120, 10115 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5295822,
+                "lng": 13.3839252
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.53111377989272,
+                    "lng": 13.38535742989272
+                },
+                "southwest": {
+                    "lat": 52.52841412010728,
+                    "lng": 13.38265777010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "REWE",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112862076585457293168\">Luke Pilon</a>"
+                ],
+                "photo_reference": "Aap_uEAEY2Hx2coEHUf8LGxaHH29zpfk_92D9v9Du9Z8ZgcP5x9ZtqjFvZDtWsIVk10jouDAA6wJ6k6CINXCLQ28FfoanQ_NUIEljTbU1fiJ8vIIwWeEifSuA0CwjzVu5wLntLWhi8JUB3rGpyc5kkAaT4LZQd-W8cdcyN1-NdJEodnRXMLI",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJBUEJietRqEcRM-_HFj_aQig",
+        "plus_code": {
+            "compound_code": "G9HM+RH Berlin, Germany",
+            "global_code": "9F4MG9HM+RH"
+        },
+        "rating": 4.1,
+        "reference": "ChIJBUEJietRqEcRM-_HFj_aQig",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1233
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rosenthaler Str. 11, 10119 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5277699,
+                "lng": 13.4027428
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52911972989272,
+                    "lng": 13.40409262989272
+                },
+                "southwest": {
+                    "lat": 52.52642007010728,
+                    "lng": 13.40139297010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Nahcity",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104773979657881026907\">Chiara</a>"
+                ],
+                "photo_reference": "Aap_uEDhnHgcGSd-lSTJ0j0pdNPddq0MXqGY3Im26fXRLjaR2rV7KljwM4ikwjpJEp-2SO7ZuXmjd3L8tGOe8vFqMhCwb7WtaPjGSV1lUkUu2yqzHlPZHM--cKwF67VmeYtXABfC6wklYCGwTYCmTt880XeT9_lgDfQ3MQ-xQtK8GfeMdykr",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJh3m99-NRqEcRSNBzRVlVb2E",
+        "plus_code": {
+            "compound_code": "GCH3+43 Berlin, Germany",
+            "global_code": "9F4MGCH3+43"
+        },
+        "rating": 4,
+        "reference": "ChIJh3m99-NRqEcRSNBzRVlVb2E",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "liquor_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 115
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Sch\u00f6nhauser Allee 10-11, 10119 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5303884,
+                "lng": 13.4117549
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.53167492989272,
+                    "lng": 13.41324012989272
+                },
+                "southwest": {
+                    "lat": 52.52897527010728,
+                    "lng": 13.41054047010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "REWE",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110415494580054650184\">Manfred Walk</a>"
+                ],
+                "photo_reference": "Aap_uEDITwG00PNa8VzWuSo1hgS3ikGETBDY53iD8c-OHhXQIh1f8PVGAjlZ0crTFm6itpqF2SjvcOoWdf892-KXLVowaIGskJWhm3yBnealh5B9ZYQBi0PMeM_odO9oz3LjMnkiq4BtOv4GXTQdddp3C5gHr_WRdxbBqd0dLAIuropmjsSv",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJOSgqElRPqEcRAgUkHC-lOKk",
+        "plus_code": {
+            "compound_code": "GCJ6+5P Berlin, Germany",
+            "global_code": "9F4MGCJ6+5P"
+        },
+        "rating": 4.2,
+        "reference": "ChIJOSgqElRPqEcRAgUkHC-lOKk",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 435
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Friedrichstra\u00dfe 246, 10969 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5007211,
+                "lng": 13.3913148
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50217397989272,
+                    "lng": 13.39275172989272
+                },
+                "southwest": {
+                    "lat": 52.49947432010728,
+                    "lng": 13.39005207010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "EDEKA",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108728595047300368086\">Mira Mira</a>"
+                ],
+                "photo_reference": "Aap_uEB3pS3BjOjbhlItWmvsdmNL3XJ8f_3JO30sIlIviVD-rwegH6opAfXkEqOd86QCo5jecVqKWOCLQs_hOQ_hlMEdmcmvtYlkL8rLuc_rdPOn7S2FM3GfmHvgOP8bnWCSqHET0gSrMdtYLvmP0TQoKZFXHRvlSO3NeBB690vqkBMvsgnw",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJiXy4PStQqEcR8rIwESu5p1E",
+        "plus_code": {
+            "compound_code": "G92R+7G Berlin, Germany",
+            "global_code": "9F4MG92R+7G"
+        },
+        "rating": 3.3,
+        "reference": "ChIJiXy4PStQqEcR8rIwESu5p1E",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 411
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Invalidenstra\u00dfe 154, 10115 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5323216,
+                "lng": 13.3962125
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.53373032989271,
+                    "lng": 13.39758872989272
+                },
+                "southwest": {
+                    "lat": 52.53103067010727,
+                    "lng": 13.39488907010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Lebensmittel und Asia shop",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107737898720387025514\">107737898720387025514</a>"
+                ],
+                "photo_reference": "Aap_uEDThODCbHixfYxCLnVy0TDDHPLmRIYAKCPUFXFc1uBijvWt2EuvnRr_54DnhgaWVRghGk17njuCRjOCKWGZRsSOMGR7HGu54MJ9rIFcOALXWGNZcx7E33TFZqoaM4Foc5RK6VFgoD8OS5J4mA3zEmOqSRdE3WUNmaA8kUTwyVRTTMCc",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJn3t4cSRRqEcRLPBpH6EybFI",
+        "plus_code": {
+            "compound_code": "G9JW+WF Berlin, Germany",
+            "global_code": "9F4MG9JW+WF"
+        },
+        "rating": 4,
+        "reference": "ChIJn3t4cSRRqEcRLPBpH6EybFI",
+        "types": [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 2
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rathausstra\u00dfe 5, 10178 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5192555,
+                "lng": 13.4103926
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52073382989271,
+                    "lng": 13.41148617989272
+                },
+                "southwest": {
+                    "lat": 52.51803417010727,
+                    "lng": 13.40878652010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Netto Marken-Discount",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117244257459285723494\">Daniel Vazquez</a>"
+                ],
+                "photo_reference": "Aap_uECRpUxKcptU_qq8zPmvHbs6Bu1rBhdxzDULwPXq5W2PFIBQ1ln6Ra4FMcksEWfzzbTGtrfLA045B9REWsDyG30cFEha0RtE8HRDd-bTTLdJAHKozoNgDG1PBtWhKs-ZmRF7GKGL_wlReOkraHL6pJ4xWtBmqufRYux5KxMvd4GD5SF7",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJjQ9c1SJOqEcRzTArQIXM5qU",
+        "plus_code": {
+            "compound_code": "GC96+P5 Berlin, Germany",
+            "global_code": "9F4MGC96+P5"
+        },
+        "rating": 3.8,
+        "reference": "ChIJjQ9c1SJOqEcRzTArQIXM5qU",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 739
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Torstra\u00dfe 145, 10119 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5296895,
+                "lng": 13.3985451
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.53093707989272,
+                    "lng": 13.39991012989272
+                },
+                "southwest": {
+                    "lat": 52.52823742010727,
+                    "lng": 13.39721047010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "URBAN FOOD HUB",
+        "opening_hours": {
+            "open_now": false
+        },
+        "place_id": "ChIJva1T2Y5RqEcRGMb7poVaKGQ",
+        "plus_code": {
+            "compound_code": "G9HX+VC Berlin, Germany",
+            "global_code": "9F4MG9HX+VC"
+        },
+        "rating": 0,
+        "reference": "ChIJva1T2Y5RqEcRGMb7poVaKGQ",
+        "types": [
+            "grocery_or_supermarket",
+            "supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Parkplatz \u00fcber Rochstra\u00dfe zu erreichen, Karl-Liebknecht-Str. 13, 10178 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5222845,
+                "lng": 13.4080578
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52356842989272,
+                    "lng": 13.40879505
+                },
+                "southwest": {
+                    "lat": 52.52086877010727,
+                    "lng": 13.40584605
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Kaufland Berlin-Mitte",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116216202357062578677\">snoson</a>"
+                ],
+                "photo_reference": "Aap_uEB9xyM7nU_J8Pfn44NaFHRGH8Af7ZQH9m4wBB4jb9nfhZQo1iAJ__x3HbecIaZNpflUVEWp3LAcMM9MWyNQD3SbtHaof4rPvMjpFu6D49tVGrSeNrroNGFchFv3V49wNA3HMMv6JIzNCPmBP6WRAQWZXHipuaw91YNZKZS3lrAgDiB4",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ3z5s5B9OqEcRNhTDwzwxE-M",
+        "plus_code": {
+            "compound_code": "GCC5+W6 Berlin, Germany",
+            "global_code": "9F4MGCC5+W6"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ3z5s5B9OqEcRNhTDwzwxE-M",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 3575
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Gro\u00dfe Hamburger Str. 39, 10115 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5267935,
+                "lng": 13.3985456
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52814477989272,
+                    "lng": 13.39977262989272
+                },
+                "southwest": {
+                    "lat": 52.52544512010727,
+                    "lng": 13.39707297010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Kiezmarkt",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101085698784371498369\">Max Axelrod</a>"
+                ],
+                "photo_reference": "Aap_uECGeR_-Wv15zHNQWV0PvlEUhT6cVZzZ_7aRj3JrJK-Fqm2pOOGPax3RGyb41OKv_5nvjygT6vT58zq_y1qOfwe-yaCRARLeBHJHqVNyBUYs5w1CaW_8JTmoXviIiQJjVc9FUCnaIYpt7OJ7vDzYmkgm4H8V2Y0tBoOIVhpwFS2h7wj_",
+                "width": 3000
+            }
+        ],
+        "place_id": "ChIJTXa2iOZRqEcRZRMYpkTf0og",
+        "plus_code": {
+            "compound_code": "G9GX+PC Berlin, Germany",
+            "global_code": "9F4MG9GX+PC"
+        },
+        "rating": 4,
+        "reference": "ChIJTXa2iOZRqEcRZRMYpkTf0og",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 183
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Alt-Moabit 9, 10557 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5238118,
+                "lng": 13.3584578
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52506502989273,
+                    "lng": 13.35986967989272
+                },
+                "southwest": {
+                    "lat": 52.52236537010729,
+                    "lng": 13.35717002010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "PENNY",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3462,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109015656193457650379\">A Google User</a>"
+                ],
+                "photo_reference": "Aap_uEASG-quhy31RWYH6PWsl_xDRCPjq5hgHpMfslC4zHpr8f3YdivhF9a48lfv5fdzLYAM9j8A5xlLkpGO3QVqDAbBH5PCkgtXzmkXW6Y6GlCT5hdg22xsAmz0FXlTRJYCn79GHbef3qw3X2ELo_GiepaNM0Ic6PHPeBfXrobo-csYy3Sh",
+                "width": 4621
+            }
+        ],
+        "place_id": "ChIJDQShG6NRqEcRXNHQYjXYAKk",
+        "plus_code": {
+            "compound_code": "G9F5+G9 Berlin, Germany",
+            "global_code": "9F4MG9F5+G9"
+        },
+        "rating": 3.8,
+        "reference": "ChIJDQShG6NRqEcRXNHQYjXYAKk",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 620
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Potsdamer Platz 2, 10785 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.50974,
+                "lng": 13.3750901
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.51123247989272,
+                    "lng": 13.37650792989272
+                },
+                "southwest": {
+                    "lat": 52.50853282010728,
+                    "lng": 13.37380827010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Spar Express",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108019626389733918282\">A Google User</a>"
+                ],
+                "photo_reference": "Aap_uEBRK1AsfCanU-XzuD-1uVeo_CS-HpTs6CCCHG45IrLDISppGWfHNyLzH-MKAABz5jCKLBqCchAaIw1oc_tulzSAkw7v2vGoLhkf34yVDIl1_xk-8NJr9K1UZfk83Oj5mlxQoro5fUPNRetzx-BReOt1Rr_dGeIkD8ALktaNZMzSoxLW",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJXST5Ws5RqEcR4w08U_yaLO8",
+        "plus_code": {
+            "compound_code": "G95G+V2 Berlin, Germany",
+            "global_code": "9F4MG95G+V2"
+        },
+        "rating": 3.7,
+        "reference": "ChIJXST5Ws5RqEcR4w08U_yaLO8",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 3
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Alte Jakobstra\u00dfe 83, 10179 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5098746,
+                "lng": 13.4073461
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.51115547989272,
+                    "lng": 13.40876897989272
+                },
+                "southwest": {
+                    "lat": 52.50845582010728,
+                    "lng": 13.40606932010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Netto Marken-Discount",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3096,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100084054715582699852\">Fatima Eguia</a>"
+                ],
+                "photo_reference": "Aap_uEDNSMbGUmwmc-EXYTuKWsBUPP24n7AtGpILq75Ggmgs1YTLkSQTKRAmeo9WOHrjTahck9sivSkw6Bz4sj3zmHYTBLk2fvAjtCMAGTT4qvcnN7UrHEzerCFu3LopbBBEFtYo16zIyKABhkPb21uvA_NdEoorlbubEoOAVSHIgfQelp8-",
+                "width": 4128
+            }
+        ],
+        "place_id": "ChIJA2mozyFOqEcRlcdtyH14Hfw",
+        "plus_code": {
+            "compound_code": "GC54+WW Berlin, Germany",
+            "global_code": "9F4MGC54+WW"
+        },
+        "rating": 3.9,
+        "reference": "ChIJA2mozyFOqEcRlcdtyH14Hfw",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 517
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Invalidenstra\u00dfe 59, 10557 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.524283,
+                "lng": 13.363988
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52570527989272,
+                    "lng": 13.36518742989272
+                },
+                "southwest": {
+                    "lat": 52.52300562010728,
+                    "lng": 13.36248777010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "ALDI",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117286455407242618836\">Huey Can Cook</a>"
+                ],
+                "photo_reference": "Aap_uEBijxcJAWvbyPrIbBasBhGv84YsBIhm7Vwr1Im_2UtdZ7-0IpGAUXrX9p8MePH8dUo7652oZcjckoPTgwbsAKPaUnhAsy2GIt3a2DGH7PHvHyyAiB1gEwGWk62-mQAqujMD8b0kRU6AK3DuqIdwXp8PUQBOjglWQulAiac26dlvWwGa",
+                "width": 3840
+            }
+        ],
+        "place_id": "ChIJ1QtBFr1RqEcRdovvLZRzEWc",
+        "plus_code": {
+            "compound_code": "G9F7+PH Berlin, Germany",
+            "global_code": "9F4MG9F7+PH"
+        },
+        "rating": 4,
+        "reference": "ChIJ1QtBFr1RqEcRdovvLZRzEWc",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 860
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Stra\u00dfburger Str. 9a-c, 10405 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.52922,
+                "lng": 13.4135295
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.53061742989272,
+                    "lng": 13.41463287989272
+                },
+                "southwest": {
+                    "lat": 52.52791777010727,
+                    "lng": 13.41193322010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "EDEKA Stra\u00dfburger Stra\u00dfe",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116216202357062578677\">Kevin Bettin</a>"
+                ],
+                "photo_reference": "Aap_uEBReevXtDnTg3n2acIMu31GXl30Vp60mMiwlDRD4MP_YKuT5EG5H2vaVSp-SlEVMx0xAZ2SnMs--aYtBrT69l0izbgvsVtETYjydKAUXjXUvz9rwTcLkHt1_vLQitcT0TrpOFDbuHZwJz4dCS7DMijaLaj5H9X1L0bX11UNdRsq9Aj5",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJSQxBEh1OqEcRFqZNsYAOhE4",
+        "plus_code": {
+            "compound_code": "GCH7+MC Berlin, Germany",
+            "global_code": "9F4MGCH7+MC"
+        },
+        "rating": 4.2,
+        "reference": "ChIJSQxBEh1OqEcRFqZNsYAOhE4",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 389
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Friedrichstra\u00dfe 69-70, 10117 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.512944,
+                "lng": 13.3906601
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.51435587989272,
+                    "lng": 13.39200022989272
+                },
+                "southwest": {
+                    "lat": 52.51165622010728,
+                    "lng": 13.38930057010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "PENNY",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106046093095079624444\">Simone Schmietendorf</a>"
+                ],
+                "photo_reference": "Aap_uEBo-T-4Bota4g-BInhBu_mbU2vctTb-H9PHM688yb1uvt4rfuBw4JMh5USa7gqZoRQSBXlVe056QW4jWOBcAsi--XNtSixKfS1WOBPvzBoJkLioi_WDdi6IAxOB8NoB8AR_rjZbbjtMAc6wgmVV_SDsTGx_49jZDnVOu3VzS_yrcExO",
+                "width": 1920
+            }
+        ],
+        "place_id": "ChIJ9VFJWBxRqEcR0mmsvGLM0AI",
+        "plus_code": {
+            "compound_code": "G97R+57 Berlin, Germany",
+            "global_code": "9F4MG97R+57"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ9VFJWBxRqEcR0mmsvGLM0AI",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 50
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Markgrafenstra\u00dfe 68, 10969 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.505499,
+                "lng": 13.3940765
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50681927989272,
+                    "lng": 13.39553867989272
+                },
+                "southwest": {
+                    "lat": 52.50411962010728,
+                    "lng": 13.39283902010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Super Iberico",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112101106469900206050\">Intelli</a>"
+                ],
+                "photo_reference": "Aap_uEBqazM11yoAdyR-JuzSsiC2oAF_eSnMF3BcW9vyDriixjSEXCMc0Rke-jzJFSe-hSyNfpZY9G98TcpLSm1zBjEAPVSZZ-B7pYFLhYrkJrhdqgXlG1c6_s4q2vhQob0JS7b0kQp0n4Nppv9FifJ4ZRr9ThTyuHrA8-t0F8WaJl0ydYDI",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJbSq0OdRRqEcRVWk83Fykdug",
+        "plus_code": {
+            "compound_code": "G94V+5J Berlin, Germany",
+            "global_code": "9F4MG94V+5J"
+        },
+        "rating": 4.2,
+        "reference": "ChIJbSq0OdRRqEcRVWk83Fykdug",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 469
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Prinzessinnenstra\u00dfe 19-20, 10969 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5024046,
+                "lng": 13.4120231
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50385922989272,
+                    "lng": 13.41345752989272
+                },
+                "southwest": {
+                    "lat": 52.50115957010728,
+                    "lng": 13.41075787010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Basketo",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 624,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117884664571877078833\">A Google User</a>"
+                ],
+                "photo_reference": "Aap_uEBiRUFXEwEvuF5fFCCUy7asZrBvHwAqwK_dAe1LX2pEAI3AOuFaIhbihQTc3MSACNHRyRt5a9Y8u3un8h2i_Azbv70uW3mC2rRVfoUYEsA41YAEvM6N4JNlAuHJD2KdO4nVpTAa-UTRufCDVATXDkivREgzRzOQGyLwHWyK1xuQTR2g",
+                "width": 1418
+            }
+        ],
+        "place_id": "ChIJO_vHkS1OqEcRYXOm7FBHsPA",
+        "plus_code": {
+            "compound_code": "GC26+XR Berlin, Germany",
+            "global_code": "9F4MGC26+XR"
+        },
+        "rating": 4.7,
+        "reference": "ChIJO_vHkS1OqEcRYXOm7FBHsPA",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 6
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Torstra\u00dfe 33, 10119 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5283728,
+                "lng": 13.4126462
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52962517989272,
+                    "lng": 13.41397402989272
+                },
+                "southwest": {
+                    "lat": 52.52692552010728,
+                    "lng": 13.41127437010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Netto",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116216202357062578677\">Kevin Bettin</a>"
+                ],
+                "photo_reference": "Aap_uEC5QcyEK5Qq4uQ4-uAcGoHiAx7m6hIhBZxVuexeJ33BchVBFLHgakhEdhyHVdb9Zzf4fAPlEiPE9MwZhzlz9kGkQ9wiLUVE1ZACBR8LrWt2DH8tGG9qQ7-pIj_-L100tEyd8yWgEiz2v6udnEFh4_-WNKNdllUabzY7bFJ8WhRvtoBQ",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJ5zqQoh1OqEcRIRHhjZ1mWe4",
+        "plus_code": {
+            "compound_code": "GCH7+83 Berlin, Germany",
+            "global_code": "9F4MGCH7+83"
+        },
+        "rating": 3.7,
+        "reference": "ChIJ5zqQoh1OqEcRIRHhjZ1mWe4",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 343
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Luisenstra\u00dfe 52, 10117 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.524311,
+                "lng": 13.379497
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52565902989272,
+                    "lng": 13.38077292989272
+                },
+                "southwest": {
+                    "lat": 52.52295937010727,
+                    "lng": 13.37807327010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Lidl",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100725735505432381635\">Michael Checkermayer</a>"
+                ],
+                "photo_reference": "Aap_uEC9PthUulVnxFQDOxkyIxNMmY2qHi0ZAL7r4nc4If1uCTJZlg4K9aSld6ngFyqzRPIgUfzu2cgUc3Z9ksJ8pM4hnNSKhbYkprYNWx1Y4jK7QCMfcdzSMV-IP1lmKZbFpzWg1UoQ1I7hprTTbunSDbdbj7nLEl3QwVhDMdn24tkO07Go",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ62nCoepRqEcRBsra7l-Nq18",
+        "plus_code": {
+            "compound_code": "G9FH+PQ Berlin, Germany",
+            "global_code": "9F4MG9FH+PQ"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ62nCoepRqEcRBsra7l-Nq18",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1061
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Hedemannstra\u00dfe 30, 10963 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.502675,
+                "lng": 13.3861695
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50400507989272,
+                    "lng": 13.38756797989272
+                },
+                "southwest": {
+                    "lat": 52.50130542010728,
+                    "lng": 13.38486832010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Sp\u00e4tkauf",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105589966799801178093\">Alexander Ponomarev</a>"
+                ],
+                "photo_reference": "Aap_uEAzQqRAokSd01-S9q-32xT6HiPKBB2kTWFuPOd9MZrcvmdd1GF1eHqU2DU_ScHlaUzPUXe9PiJKpTfEJ5gYSn5A2tDZZa-mgsysyvUtdGsOoDaUKNlluUHKuwSQlcfwC-Rnz5d2wqe-3l5E9Hb7-bbjLm8YOyrgLKuvsozx-LjcAUxi",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJta5qpaNRqEcRL2ULE1vaNCk",
+        "plus_code": {
+            "compound_code": "G93P+3F Berlin, Germany",
+            "global_code": "9F4MG93P+3F"
+        },
+        "rating": 4,
+        "reference": "ChIJta5qpaNRqEcRL2ULE1vaNCk",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 5
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Chausseestra\u00dfe 43, 10115 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.53422579999999,
+                "lng": 13.3788288
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.53560867989272,
+                    "lng": 13.38009997989272
+                },
+                "southwest": {
+                    "lat": 52.53290902010728,
+                    "lng": 13.37740032010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "EDEKA Sapphire",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117226961811163652653\">Juergen Koehler</a>"
+                ],
+                "photo_reference": "Aap_uEBI1HUAfF4YVhpHFtKU1yDJV_uaOVgAlpx9kVXYQLijjYjV3AYI6GgH-HluFpG_H68WlYTwqNOdQV32tVWTgfgp8Pb07EE22R-MjFAfz1VMWp3b5mjjVX04sfiSpVqtlyq-otnKMGa7TG16VIoVe3_qV_OC80wYrJuYXKDmaIVCr6ig",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJV16OSJNRqEcRpJUFdhOKHHQ",
+        "plus_code": {
+            "compound_code": "G9MH+MG Berlin, Germany",
+            "global_code": "9F4MG9MH+MG"
+        },
+        "rating": 4.2,
+        "reference": "ChIJV16OSJNRqEcRpJUFdhOKHHQ",
+        "types": [
+            "supermarket",
+            "drugstore",
+            "bakery",
+            "grocery_or_supermarket",
+            "liquor_store",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 807
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Turmstra\u00dfe 6, 10559 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5267112,
+                "lng": 13.3529126
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52803662989272,
+                    "lng": 13.35440197989272
+                },
+                "southwest": {
+                    "lat": 52.52533697010728,
+                    "lng": 13.35170232010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Esen Supermarket",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113813494443752001145\">Khalil Mohamab</a>"
+                ],
+                "photo_reference": "Aap_uEC2v-XxLXcO2rpk6Dnwb6hLEay40wcQ53OLD8liny7WonJtSV59yJnpyFPPDNbV66SUWYmsry_nKxltMMlhuZrbCV-9-Sno669bTotyYJgTyQkY1swAYSBabEGtwjMEESjrh_APR_Zwk_m50Kdu6fTzGzzxJ2twA3XBXtU-gGb2JGlU",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJKfM_26FRqEcRS-gkAGPX3zA",
+        "plus_code": {
+            "compound_code": "G9G3+M5 Berlin, Germany",
+            "global_code": "9F4MG9G3+M5"
+        },
+        "rating": 4.1,
+        "reference": "ChIJKfM_26FRqEcRS-gkAGPX3zA",
+        "types": [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 109
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Grunerstra\u00dfe 20, 10179 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5184957,
+                "lng": 13.4162341
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.51984552989272,
+                    "lng": 13.41758392989272
+                },
+                "southwest": {
+                    "lat": 52.51714587010728,
+                    "lng": 13.41488427010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "EDEKA Moch Supermarket",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117110290722999919869\">Ringo Wakamatsu</a>"
+                ],
+                "photo_reference": "Aap_uEA31bIRpUF3_khghk3yb7aAFG3ooMGxx8Vtoed2BOQVbek0nPQkoE_45kHS2pFCT4zbdZdMf5sY4THvA6-eg9AZ5wdSsCi3wZYNyfRrXuR4pk6CIF5s6sqwPh4_LQHjUGCpp_pyegm9aOm_2XakkDQuwUqh195J4q5wcZ8RGDca3sP2",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJA3B1AyJOqEcR6dSXjAQboUo",
+        "plus_code": {
+            "compound_code": "GC98+9F Berlin, Germany",
+            "global_code": "9F4MGC98+9F"
+        },
+        "rating": 4.2,
+        "reference": "ChIJA3B1AyJOqEcR6dSXjAQboUo",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 769
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Lindenstra\u00dfe 17, 10969 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5029295,
+                "lng": 13.3956519
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50433127989273,
+                    "lng": 13.39681272989272
+                },
+                "southwest": {
+                    "lat": 52.50163162010728,
+                    "lng": 13.39411307010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Indian & Sri Lankan Food Grocery (Asia Super Shop)",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3492,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114989195922999808947\">SACHIT VARMA</a>"
+                ],
+                "photo_reference": "Aap_uECATS7FHHTN2_JesACFLKlExRVN5K_u9uT_61oL7w5JcK3uNLe1I80yWPnPLQjMTuWeQnwD2SUraU8nmB0DzypsgDhj763K3bF7Hc5yOR3jeEDfGiCTuKbOgegKVVF32qp5x1mohXgqLcaY6ENDRqIyuQYG3B0IBqp4GB1on-UaVdW5",
+                "width": 4656
+            }
+        ],
+        "place_id": "ChIJX3RzDNVRqEcR4dGj0Jb6Ayw",
+        "plus_code": {
+            "compound_code": "G93W+57 Berlin, Germany",
+            "global_code": "9F4MG93W+57"
+        },
+        "rating": 4.3,
+        "reference": "ChIJX3RzDNVRqEcR4dGj0Jb6Ayw",
+        "types": [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 392
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Ritterstra\u00dfe 38-40, 10969 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5036375,
+                "lng": 13.4034444
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50489717989272,
+                    "lng": 13.40479657989272
+                },
+                "southwest": {
+                    "lat": 52.50219752010727,
+                    "lng": 13.40209692010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "EDEKA Ritterstra\u00dfe",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114335733259234434455\">Nycer</a>"
+                ],
+                "photo_reference": "Aap_uECfZSIa04E5h6SgSfzHgW5dYJ0WciA_HzUjPpMryFOu-1ReDNNgDj6znZ7rWfTjzXTecJOBpStKAysbzRRqxKQ0H6g-_dvaTJYyG2-kUtw1pXSqi0W8MfeEpwstpUxCr6VOVtynGhEdfOzhJBio6McIfeOROhossDOOjOI5-C9wuOYE",
+                "width": 2268
+            }
+        ],
+        "place_id": "ChIJoTWZvitOqEcRsGjSIgmkrTY",
+        "plus_code": {
+            "compound_code": "GC33+F9 Berlin, Germany",
+            "global_code": "9F4MGC33+F9"
+        },
+        "rating": 3.7,
+        "reference": "ChIJoTWZvitOqEcRsGjSIgmkrTY",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 478
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Alex-Wedding-Stra\u00dfe 3, 10178 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5251265,
+                "lng": 13.4154074
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52650977989273,
+                    "lng": 13.41664897989272
+                },
+                "southwest": {
+                    "lat": 52.52381012010729,
+                    "lng": 13.41394932010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Netto",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 4160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105867958180948422678\">Cristi Nita</a>"
+                ],
+                "photo_reference": "Aap_uEDa4vxz8HtyrKV7qJhmHYs9YuZ9NYkVsFlWrJTPGtC_zUIV-96DIS5YkI0fyM7QFaj0Tcco5ArvX6Oxd76DZ29lGETaNbGLoNWVZnMhsMJzpaOjihIXAq8GHzHuOTC2XiNCKEpmmUhMrXBoHwOHIdeJkSqlalcT3ocsAE1tcJQFEITq",
+                "width": 3120
+            }
+        ],
+        "place_id": "ChIJi0FBpB5OqEcRUODehAC6N_E",
+        "plus_code": {
+            "compound_code": "GCG8+35 Berlin, Germany",
+            "global_code": "9F4MGCG8+35"
+        },
+        "rating": 4,
+        "reference": "ChIJi0FBpB5OqEcRUODehAC6N_E",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 442
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Heinrich-Heine-Stra\u00dfe 30, 10179 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5066011,
+                "lng": 13.4125713
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50783882989272,
+                    "lng": 13.41389667989272
+                },
+                "southwest": {
+                    "lat": 52.50513917010727,
+                    "lng": 13.41119702010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Lidl",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100145218728978629409\">Dmitriy Klimenko</a>"
+                ],
+                "photo_reference": "Aap_uEDuSXA5cy7UNeD6oDn-bChU7pm-XLMbMb70Y1FaO59yeUxc_h4_Tm1V_GQ_jAc2BuRW9VJyXwBV6H2pF3bMrAbUhgWN2_ZZXIkw4YkwwtDoY5-eIlclW9uCboOz7YMX3lZr_gNroqNV74YeBJ1BwP5wq9_fLB0PWKnVvUEJGiFEUEHG",
+                "width": 5312
+            }
+        ],
+        "place_id": "ChIJmbp8HiZOqEcRbKKAwF5KDY8",
+        "plus_code": {
+            "compound_code": "GC47+J2 Berlin, Germany",
+            "global_code": "9F4MGC47+J2"
+        },
+        "rating": 4.1,
+        "reference": "ChIJmbp8HiZOqEcRbKKAwF5KDY8",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 1080
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Weinbergsweg 20, 10119 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.53126,
+                "lng": 13.40215
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.53256517989272,
+                    "lng": 13.40364917989272
+                },
+                "southwest": {
+                    "lat": 52.52986552010727,
+                    "lng": 13.40094952010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "OEL-Berlin",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1365,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115951314667355930101\">A Google User</a>"
+                ],
+                "photo_reference": "Aap_uEAYSOL0Jv58qE3H2MbFFRtezly15NFxNv26bzLZb8Ax_mn_c9CcD7poGwZHBrfJ4NL16UdxQGRXoNJt9aXfzxWRwIZElomSpqRTjyDKsI72LFfZ9GJIkT3Y1AnVLzqWiChOn7KtLVtLtD7rDT_I94Pn8E3s-pCTTVXnkqEYIxqPsTZ5",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJ6VJywORRqEcRzb98i5vnM34",
+        "plus_code": {
+            "compound_code": "GCJ2+GV Berlin, Germany",
+            "global_code": "9F4MGCJ2+GV"
+        },
+        "rating": 5,
+        "reference": "ChIJ6VJywORRqEcRzb98i5vnM34",
+        "types": [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 119
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Templiner Str. 13, 10119 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.53199679999999,
+                "lng": 13.4077704
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.53337347989271,
+                    "lng": 13.40930247989272
+                },
+                "southwest": {
+                    "lat": 52.53067382010727,
+                    "lng": 13.40660282010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "EDEKA Templiner Stra\u00dfe",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104608972813442444105\">A Google User</a>"
+                ],
+                "photo_reference": "Aap_uEANFK73J4KdVkQNlHHIW5WKXVojpj5Eeh5v5nqWIsxPCMvZXFMZE6Sertm2iux--AUVim8eHV3mu8vrf68LRX9PvHUsNHP_GCpMPBfuOsaNTawfg36leSwFM-bBW7FiL1hsGYrwp6DUumttd2zJdWgh9sN6P6Cgp7f0-p9h-CBu2gL0",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJr15e02VRqEcRz2BjNLCMsv4",
+        "plus_code": {
+            "compound_code": "GCJ5+Q4 Berlin, Germany",
+            "global_code": "9F4MGCJ5+Q4"
+        },
+        "rating": 3.5,
+        "reference": "ChIJr15e02VRqEcRz2BjNLCMsv4",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 327
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Lehrter Str. 57, 10557 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5322827,
+                "lng": 13.3600589
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.53362767989272,
+                    "lng": 13.36166312989272
+                },
+                "southwest": {
+                    "lat": 52.53092802010728,
+                    "lng": 13.35896347010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Netto Marken-Discount",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116729291430818328308\">Karl Heinz</a>"
+                ],
+                "photo_reference": "Aap_uEAifsF8VUV4JkYa--2dnSDX-667W-1ap5MU9p8xZLJZYHV8PU_wmV2N-DEL-8SSRpCSxm5RJAoBsHIxlDGm2pDUv8q7_3iWnmNDWZnYWryV4LHH98X7waVLi-bxUBwPx8of6MG6o44Tj7uPh96_rH1F1Vyq2XzD5BNwnaVuCGuhVrTx",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJoziR-ptRqEcRGYzm6U_ecCU",
+        "plus_code": {
+            "compound_code": "G9J6+W2 Berlin, Germany",
+            "global_code": "9F4MG9J6+W2"
+        },
+        "rating": 3.8,
+        "reference": "ChIJoziR-ptRqEcRGYzm6U_ecCU",
+        "types": [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 649
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Granseer Str. 10, 10435 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5369474,
+                "lng": 13.4035392
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.53838212989272,
+                    "lng": 13.40482392989272
+                },
+                "southwest": {
+                    "lat": 52.53568247010728,
+                    "lng": 13.40212427010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Bio Laden",
+        "opening_hours": {
+            "open_now": false
+        },
+        "place_id": "ChIJwWFZzPtRqEcR1FXG3Jz4GaU",
+        "plus_code": {
+            "compound_code": "GCP3+QC Berlin, Germany",
+            "global_code": "9F4MGCP3+QC"
+        },
+        "rating": 5,
+        "reference": "ChIJwWFZzPtRqEcR1FXG3Jz4GaU",
+        "types": [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 2
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Panoramastra\u00dfe 1, 10178 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.5216566,
+                "lng": 13.4094093
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.52319162989271,
+                    "lng": 13.41033117989272
+                },
+                "southwest": {
+                    "lat": 52.52049197010727,
+                    "lng": 13.40763152010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Asia Mekong",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113002116842332694909\">A Google User</a>"
+                ],
+                "photo_reference": "Aap_uEDUO0HzZDAX57USgy22VK4Dd5_-QEMyObnr2-RIcyIJHHVh1jB34vBKN6i3FRQkRrHnFR0fq7BkITIoD2celkJ0oV1rVPqk3yIkNKYrG1WkS_X5-888rZwekZn9yXuGhF2NzC05swYLcIkX_e0IQMmtBWLQMfN_rToNdnChJ8x6ikcy",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJz5gDUR9OqEcRZK0QRhnofcM",
+        "plus_code": {
+            "compound_code": "GCC5+MQ Berlin, Germany",
+            "global_code": "9F4MGCC5+MQ"
+        },
+        "rating": 3.8,
+        "reference": "ChIJz5gDUR9OqEcRZK0QRhnofcM",
+        "types": [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 250
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Adalbertstra\u00dfe 98, 10999 Berlin, Germany",
+        "geometry": {
+            "location": {
+                "lat": 52.49978240000001,
+                "lng": 13.4176463
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 52.50107522989272,
+                    "lng": 13.41924047989272
+                },
+                "southwest": {
+                    "lat": 52.49837557010727,
+                    "lng": 13.41654082010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "name": "Fruit & Vegetable Stand",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106048252159271746773\">Philipp Kl\u00f6ckner</a>"
+                ],
+                "photo_reference": "Aap_uEAdp1FYmQ_vdc_SHt9rNmXj2BY99ofKaOSJpmR5cE5SRUQBKEs5JyZ9bMbCeQpoQRP69gbbrTRyQ-J92Tc12NkQUQmwGm9LKfAack4OeOCyv2d6MzmY_sX9p6zgseuMfuiscle9oh2wR6IOA9NyDi6iWIkudocE6VGwtE60Z-3RHVmq",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ26cRQjNOqEcRIikRxPN777s",
+        "plus_code": {
+            "compound_code": "FCX9+W3 Berlin, Germany",
+            "global_code": "9F4MFCX9+W3"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ26cRQjNOqEcRIikRxPN777s",
+        "types": [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "user_ratings_total": 4
+    }
+]
