@@ -1,10 +1,15 @@
-from django.db.models import fields
-from django.db.models.base import Model
+from random import random
+
 from rest_framework import serializers
-from StoresApp.models import stores
+
+from StoresApp.models import Stores
 
 
 class StoresSerializers(serializers.ModelSerializer):
+    # detail = serializers.SerializerMethodField('find_details')
+    #
+    # def find_details(self, store):
+    #     return random()
     class Meta:
-        model=stores
-        fields=('StoresId, StoresName, Latitude, Longitude')
+        model = Stores
+        fields = ('StoresId', 'StoresName', 'Latitude', 'Longitude')

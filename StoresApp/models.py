@@ -1,13 +1,15 @@
 from django.db import models
-from django.db.models.base import Model
-from django.db.models.fields import FloatField
 
-# Create your models here.
 
 class Stores(models.Model):
     StoresId = models.AutoField(primary_key=True)
     StoresName = models.CharField(max_length=500)
-    Latitude= models.FloatField()
+    Latitude = models.FloatField()
     Longitude = models.FloatField()
-    
-    
+
+    # @property
+    # def my_field(self):
+    #     return 2+2
+
+    def __str__(self):
+        return self.StoresName
