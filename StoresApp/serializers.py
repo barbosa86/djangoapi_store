@@ -1,10 +1,11 @@
-from django.db.models import fields
-from django.db.models.base import Model
+from random import random
+
 from rest_framework import serializers
-from StoresApp.models import stores
+
+from StoresApp.models import Stores
 
 
 class StoresSerializers(serializers.ModelSerializer):
     class Meta:
-        model=stores
+        model=Stores
         fields=('StoresId, StoresName, Latitude, Longitude')

@@ -9,7 +9,7 @@ base_url="https://maps.googleapis.com/maps/api/place/textsearch/json"
 query_term="supermarket"
 location_value="52.517676414929966,13.384231328158515"
 radius_value="2000"
-key="AIzaSyAACEra83W_p42PXSvJX-h-RMUYEkIKrDY"
+key="AIzaSyAVqOKFSEXPwhaSkA_099SbMJ-UcxdbBRo"
 endpoint_url=base_url+"?query="+query_term+"&location="+location_value+"&radius="+radius_value+"&key="+key
          
 res = requests.get(endpoint_url, params = params)
