@@ -21,4 +21,5 @@ urlpatterns = [
 #     path(r'^stores/([0-9]+)$', views.StoresDetail.as_view())
 # ]
 
+# Rotas com generic view 
 
