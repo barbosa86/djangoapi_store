@@ -78,3 +78,5 @@ class StoreViewSet(viewsets.ViewSet):
 #         store = Stores.objects.get(StoresId=id)
 #         store.delete()
 #         return JsonResponse("Delete Successfully", safe=False)
+
+# teste
